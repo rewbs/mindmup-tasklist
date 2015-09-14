@@ -687,6 +687,13 @@
                 "style": {}
               }
             },
+            "52": {
+              "title": "Bootcamp prep",
+              "id": 150,
+              "attr": {
+                "style": {}
+              }
+            },
             "3.5": {
               "title": "Update May contacts report",
               "id": 69,
@@ -959,7 +966,7 @@
           "id": 120,
           "ideas": {
             "0.5": {
-              "title": "Meetings",
+              "title": "Schedule Meetings",
               "id": 122,
               "attr": {
                 "style": {}
@@ -1009,18 +1016,6 @@
                 "style": {}
               }
             }
-          }
-        },
-        "0.02648279070854187": {
-          "title": "Bootcamp prep",
-          "id": 150,
-          "attr": {
-            "style": {},
-            "position": [
-              146.3749999999999,
-              -502.37500000000364,
-              31
-            ]
           }
         },
         "0.039724186062812805": {
