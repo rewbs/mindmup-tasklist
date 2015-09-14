@@ -1,0 +1,1167 @@
+{
+  "title": "x",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "important / non-urgent",
+      "id": 2,
+      "attr": {
+        "style": {
+          "background": "#339966"
+        },
+        "position": [
+          72.75,
+          -175.375,
+          9
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Re-jig tasks for OpMat",
+          "id": 10,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "HipChat / BitBucket  microservices vs Micros",
+          "id": 21,
+          "attr": {
+            "style": {}
+          }
+        },
+        "8": {
+          "title": "DONE",
+          "id": 39,
+          "ideas": {
+            "1": {
+              "title": "Task for postgres DR",
+              "id": 17,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "SRE vision",
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Chat with Sam J.",
+                  "id": 46,
+                  "attr": {}
+                }
+              },
+              "id": 45
+            },
+            "3": {
+              "title": "SRE vision",
+              "id": 22,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "2": {
+                  "title": "Work towards timeline",
+                  "id": 34,
+                  "ideas": {
+                    "1": {
+                      "title": "Done via SRE ramp up",
+                      "id": 68,
+                      "attr": {}
+                    }
+                  },
+                  "attr": {}
+                }
+              }
+            },
+            "4": {
+              "title": "Finish PIR write up",
+              "id": 9,
+              "attr": {
+                "style": {}
+              }
+            },
+            "5": {
+              "title": "YOW! West blog post",
+              "id": 65,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {},
+            "collapsed": true
+          }
+        },
+        "9": {
+          "title": "WON'T DO",
+          "id": 98,
+          "ideas": {
+            "1": {
+              "title": "Comment on Felipe's  blog post",
+              "id": 29,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
+          }
+        },
+        "2.5": {
+          "title": "Implications of unicorn dev moving to us-west",
+          "id": 70,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {}
+        },
+        "0.25": {
+          "title": "Micros Vision Narrative",
+          "id": 93,
+          "attr": {
+            "position": [
+              163.25,
+              -178.625,
+              2
+            ],
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Micros Roadmap proposal",
+              "id": 67,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Micros BHAGs",
+              "id": 23,
+              "attr": {
+                "position": [
+                  212,
+                  34,
+                  1
+                ],
+                "style": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "non-important / non-urgent",
+      "id": 4,
+      "attr": {
+        "position": [
+          137,
+          342,
+          13
+        ],
+        "style": {
+          "background": "#ffffff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "DONE",
+          "id": 40,
+          "attr": {
+            "style": {},
+            "collapsed": true
+          },
+          "ideas": {
+            "1": {
+              "title": "Build home PC",
+              "id": 103,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "WON'T DO",
+          "id": 102,
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "important + urgent",
+      "id": 3,
+      "attr": {
+        "position": [
+          112,
+          -136,
+          11
+        ],
+        "style": {
+          "background": "#800000"
+        }
+      },
+      "ideas": {
+        "20": {
+          "title": "DONE",
+          "id": 36,
+          "ideas": {
+            "1": {
+              "title": "Proxy decision",
+              "id": 6,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Tick box",
+                  "id": 30,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Raise tasks",
+                  "id": 31,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Disturbed rotation definition",
+              "id": 15,
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              }
+            },
+            "3": {
+              "title": "Conference Prep",
+              "id": 27,
+              "attr": {
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Day on DoS",
+              "id": 38,
+              "attr": {
+                "style": {}
+              }
+            },
+            "5": {
+              "title": "month on SOPs?",
+              "id": 8,
+              "attr": {
+                "style": {}
+              }
+            },
+            "6": {
+              "title": "Alarm Catalogue kick start",
+              "id": 43,
+              "attr": {
+                "style": {}
+              }
+            },
+            "7": {
+              "title": "All Hands Ideas",
+              "id": 26,
+              "attr": {
+                "style": {}
+              }
+            },
+            "8": {
+              "title": "Cameron prep",
+              "id": 7,
+              "ideas": {
+                "1": {
+                  "title": "week 1 plan",
+                  "id": 51,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "90 day plan",
+                  "id": 52,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "9": {
+              "title": "Sprint prep",
+              "id": 44,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "review backlog",
+                  "id": 53,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            },
+            "10": {
+              "title": "Review DynamoDB Streams",
+              "id": 66,
+              "attr": {
+                "style": {}
+              }
+            },
+            "11": {
+              "title": "innov week  write-up",
+              "id": 42,
+              "attr": {
+                "style": {}
+              }
+            },
+            "12": {
+              "title": "Chase up services re. tagging",
+              "ideas": {
+                "1": {
+                  "title": "Re-run",
+                  "id": 76,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "id": 75,
+              "attr": {
+                "style": {}
+              }
+            },
+            "13": {
+              "title": "NTP notification",
+              "id": 72,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {}
+            },
+            "14": {
+              "title": "Who's covering what  while I'm away page",
+              "id": 25,
+              "ideas": {
+                "1": {
+                  "title": "Probation completions",
+                  "id": 55,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "BlobStore",
+                  "id": 56,
+                  "ideas": {
+                    "1": {
+                      "title": "TL: L",
+                      "id": 58,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "Micros",
+                  "id": 57,
+                  "ideas": {
+                    "1": {
+                      "title": "TL:  M",
+                      "id": 59,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "15": {
+              "title": "DR Test plan (executed 12th June)",
+              "id": 11,
+              "ideas": {
+                "1": {
+                  "title": "BlobStore Steps",
+                  "id": 12,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Pricing Experiment Steps",
+                  "id": 14,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "16": {
+              "title": "Point to ASAP in documentation",
+              "id": 74,
+              "attr": {
+                "style": {}
+              }
+            },
+            "17": {
+              "title": "Update architecture diagram",
+              "id": 73,
+              "attr": {
+                "style": {}
+              }
+            },
+            "18": {
+              "title": "Flights - update points & book seat",
+              "id": 82,
+              "attr": {
+                "style": {}
+              }
+            },
+            "19": {
+              "title": "Disturbed coverage",
+              "id": 77,
+              "attr": {
+                "style": {}
+              }
+            },
+            "20": {
+              "title": "J Prom Case",
+              "id": 79,
+              "attr": {
+                "style": {}
+              }
+            },
+            "21": {
+              "title": "React to DR test plan write up",
+              "id": 81,
+              "attr": {
+                "style": {}
+              }
+            },
+            "22": {
+              "title": "BlobStore migrations",
+              "id": 83,
+              "attr": {
+                "style": {}
+              }
+            },
+            "23": {
+              "title": "TockSpot",
+              "id": 90,
+              "attr": {
+                "style": {}
+              }
+            },
+            "24": {
+              "title": "Metrics",
+              "id": 91,
+              "attr": {
+                "style": {}
+              }
+            },
+            "25": {
+              "title": "Chase up services re. tagging, again",
+              "id": 48,
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
+            },
+            "26": {
+              "title": "Schedule TAM meeting  re. VPC migration",
+              "id": 94,
+              "attr": {
+                "style": {}
+              }
+            },
+            "50": {
+              "title": "old",
+              "id": 144,
+              "ideas": {
+                "1": {
+                  "title": "Project Centra tickets",
+                  "id": 141,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "Wallboard",
+                  "id": 137,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "3": {
+                  "title": "New DC testing",
+                  "id": 131,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": "Zoome Banner",
+                  "id": 135,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "5": {
+                  "title": "Minion PR",
+                  "id": 136,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "6": {
+                  "title": "Container Spike Kick-Off Prep",
+                  "id": 133,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "7": {
+                  "title": "runbook blitz write-up",
+                  "id": 132,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "8": {
+                  "title": "J Prom",
+                  "id": 134,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "9": {
+                  "title": "Us Visits flights Flights",
+                  "id": 130,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "10": {
+                  "title": "Conference tickets - update names",
+                  "id": 123,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "11": {
+                  "title": "Houses: upcoming auctions etc...",
+                  "id": 50,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "12": {
+                  "title": "Consolidation Sprint Prep",
+                  "id": 126,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "13": {
+                  "title": "Container Req Meeting notes write-up",
+                  "id": 128,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "14": {
+                  "title": "RDS instances for RI",
+                  "id": 127,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "15": {
+                  "title": "SMUG prep",
+                  "id": 124,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "16": {
+                  "title": "Rotation proposal",
+                  "id": 116,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "17": {
+                  "title": "BlobStore smaller instances",
+                  "id": 115,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "18": {
+                  "title": "Undersyand Project Central JIRA issues",
+                  "id": 105,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "19": {
+                  "title": "Micros & Shipit 32",
+                  "id": 113,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "20": {
+                  "title": "Retro write-up",
+                  "id": 111,
+                  "attr": {
+                    "style": {}
+                  },
+                  "ideas": {}
+                },
+                "21": {
+                  "title": "LaaS migration plans",
+                  "id": 106,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "22": {
+                  "title": "Micros Bootcamp prep",
+                  "id": 96,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "23": {
+                  "title": "Find channel for providing TAM feedback",
+                  "id": 95,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            },
+            "3.5": {
+              "title": "Update May contacts report",
+              "id": 69,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {},
+            "collapsed": true
+          }
+        },
+        "21": {
+          "title": "WON'T DO",
+          "id": 100,
+          "ideas": {
+            "1": {
+              "title": "Completed tagging by 30th June",
+              "id": 35,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Project JIRA issues",
+              "id": 104,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "example write-ups",
+              "id": 86,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "to jerome",
+                  "id": 87,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "to mikhail",
+                  "id": 88,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "Propose transition to SRE/support story for BlobStore.",
+              "id": 110,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {}
+            },
+            "5": {
+              "title": "AWS tags drill-down",
+              "id": 24,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "0.75": {
+                  "title": "Examine own & manual tagging",
+                  "id": 49,
+                  "attr": {
+                    "position": [
+                      97,
+                      11.5,
+                      1
+                    ],
+                    "style": {}
+                  }
+                }
+              }
+            },
+            "6": {
+              "title": "Clarify thoughts on Micros team size & the \"TPM experiment\"",
+              "id": 97,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {}
+            }
+          },
+          "attr": {
+            "style": {},
+            "collapsed": true,
+            "position": [
+              79.62499999999989,
+              392.9999999999977,
+              17
+            ]
+          }
+        },
+        "2.398223876953125": {
+          "title": "personal OKRs",
+          "id": 84,
+          "attr": {
+            "style": {},
+            "position": [
+              51,
+              -284,
+              3
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Develop technical expertise in containerisation, infra and config management",
+              "id": 92,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {}
+            }
+          }
+        },
+        "1.6910552978515625": {
+          "title": "End probation messages",
+          "id": 109,
+          "attr": {
+            "position": [
+              100,
+              -343,
+              5
+            ],
+            "style": {}
+          }
+        },
+        "0.36895751953125": {
+          "title": "Micros OKRs",
+          "id": 108,
+          "attr": {
+            "style": {}
+          }
+        },
+        "0.184478759765625": {
+          "title": "Micros Team structure  proposal",
+          "id": 117,
+          "attr": {
+            "style": {}
+          }
+        },
+        "11.199111938476562": {
+          "title": "PERSONAL",
+          "id": 119,
+          "ideas": {
+            "1": {
+              "title": "Citizenship",
+              "id": 99,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "RSU purch",
+              "id": 112,
+              "attr": {
+                "style": {}
+              }
+            },
+            "0.5": {
+              "title": "Moving checklist",
+              "id": 129,
+              "attr": {
+                "position": [
+                  134,
+                  -54.49999999999909,
+                  1
+                ],
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
+        },
+        "15.599555969238281": {
+          "title": "ShipIt ideas write-up",
+          "id": 114,
+          "attr": {
+            "style": {},
+            "position": [
+              72,
+              288.0000000000002,
+              14
+            ]
+          }
+        },
+        "0.07062077522277832": {
+          "title": "Container cluster Proposal",
+          "id": 118,
+          "attr": {
+            "style": {},
+            "position": [
+              150.8749999999999,
+              -397.7500000000009,
+              20
+            ]
+          },
+          "ideas": {}
+        },
+        "0.1160198450088501": {
+          "title": "fluentd meetup/call",
+          "id": 138,
+          "attr": {
+            "position": [
+              101.93749999999989,
+              -335.2500000000009,
+              21
+            ],
+            "style": {}
+          }
+        },
+        "0.138719379901886": {
+          "title": "HC/Heartbeat",
+          "id": 139,
+          "attr": {
+            "position": [
+              95.87499999999989,
+              -304.3749999999998,
+              22
+            ],
+            "style": {}
+          }
+        },
+        "0.09332031011581421": {
+          "title": "Micros Release  \"cert\"",
+          "id": 142,
+          "attr": {
+            "position": [
+              16.749999999999886,
+              -369.2500000000018,
+              25
+            ],
+            "style": {}
+          }
+        },
+        "0.05296558141708374": {
+          "title": "AMI pipeline",
+          "id": 143,
+          "attr": {
+            "position": [
+              72.74999999999989,
+              -443.87500000000273,
+              26
+            ],
+            "style": {}
+          }
+        },
+        "0.0734582170844078": {
+          "title": "SMUG prep",
+          "id": 147,
+          "attr": {
+            "style": {}
+          }
+        },
+        "0.07203949615359306": {
+          "title": "reInvent trip",
+          "id": 120,
+          "ideas": {
+            "0.5": {
+              "title": "Meetings",
+              "id": 122,
+              "attr": {
+                "style": {}
+              }
+            },
+            "1.5": {
+              "title": "ATX hotel",
+              "id": 148
+            },
+            "2.5": {
+              "title": "SF hotel",
+              "id": 149
+            }
+          },
+          "attr": {
+            "style": {},
+            "position": [
+              84.12499999999989,
+              -499.7500000000073,
+              29
+            ]
+          }
+        },
+        "0.06179317831993103": {
+          "title": "Inno Week Prep",
+          "id": 146,
+          "attr": {
+            "style": {},
+            "position": [
+              81.87499999999989,
+              -646.7500000000082,
+              30
+            ]
+          }
+        },
+        "0.08338926360011101": {
+          "title": "Micros env/region  refactor",
+          "id": 140,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Dev DC in us-west-2",
+              "id": 145,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "0.02648279070854187": {
+          "title": "Bootcamp prep",
+          "id": 150,
+          "attr": {
+            "style": {},
+            "position": [
+              146.3749999999999,
+              -502.37500000000364,
+              31
+            ]
+          }
+        },
+        "0.039724186062812805": {
+          "title": "Files load testing solution: RDS and DataDog",
+          "id": 151,
+          "attr": {
+            "style": {}
+          }
+        },
+        "0.013241395354270935": {
+          "title": "HOT transition",
+          "id": 152,
+          "attr": {
+            "position": [
+              159.1874999999999,
+              -561.3750000000045,
+              32
+            ],
+            "style": {}
+          }
+        }
+      }
+    },
+    "-2": {
+      "title": "non-important + urgent",
+      "id": 5,
+      "attr": {
+        "style": {
+          "background": "#000080"
+        },
+        "position": [
+          198.34375000000023,
+          375.9999999999991,
+          12
+        ]
+      },
+      "ideas": {
+        "3": {
+          "title": "DONE",
+          "id": 41,
+          "ideas": {
+            "1": {
+              "title": "Call Yatango",
+              "id": 16,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Approve leave requests",
+              "id": 61,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Approve J's expense report",
+              "id": 63,
+              "ideas": {
+                "1": {
+                  "title": ">$50 food claims?",
+                  "id": 64,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "AWS hotel room Room",
+              "id": 121,
+              "attr": {}
+            }
+          },
+          "attr": {
+            "style": {},
+            "position": [
+              169.5,
+              -61.5,
+              1
+            ],
+            "collapsed": true
+          }
+        },
+        "4": {
+          "title": "WON'T DO",
+          "id": 101,
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    }
+  },
+  "resources": {},
+  "links": [],
+  "attr": {
+    "measurements-config": [
+      "test"
+    ],
+    "measurements": {
+      "test": "1"
+    },
+    "progress-statuses": {
+      "": {
+        "description": "Not Started",
+        "priority": 1,
+        "style": {
+          "background": false
+        }
+      },
+      "passing": {
+        "description": "Done",
+        "style": {
+          "background": "#00CC00"
+        }
+      },
+      "under-review": {
+        "description": "Under review",
+        "style": {
+          "background": "#00CCFF"
+        }
+      },
+      "in-progress": {
+        "description": "In Progress",
+        "priority": 3,
+        "style": {
+          "background": "#FFCC00"
+        }
+      },
+      "blocked": {
+        "description": "Blocked",
+        "priority": 4,
+        "style": {
+          "background": "#990033"
+        }
+      },
+      "parked": {
+        "description": "Parked",
+        "priority": 2,
+        "style": {
+          "background": "#FF3300"
+        }
+      }
+    },
+    "style": {}
+  }
+}
