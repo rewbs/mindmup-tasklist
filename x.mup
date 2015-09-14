@@ -680,6 +680,13 @@
                 "style": {}
               }
             },
+            "51": {
+              "title": "HOT transition",
+              "id": 152,
+              "attr": {
+                "style": {}
+              }
+            },
             "3.5": {
               "title": "Update May contacts report",
               "id": 69,
@@ -1020,18 +1027,6 @@
           "title": "Files load testing solution: RDS and DataDog",
           "id": 151,
           "attr": {
-            "style": {}
-          }
-        },
-        "0.013241395354270935": {
-          "title": "HOT transition",
-          "id": 152,
-          "attr": {
-            "position": [
-              159.1874999999999,
-              -561.3750000000045,
-              32
-            ],
             "style": {}
           }
         }
