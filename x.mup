@@ -676,8 +676,8 @@
                 }
               },
               "attr": {
-                "collapsed": true,
-                "style": {}
+                "style": {},
+                "collapsed": true
               }
             },
             "51": {
@@ -788,7 +788,6 @@
           },
           "attr": {
             "style": {},
-            "collapsed": true,
             "position": [
               79.62499999999989,
               392.9999999999977,
@@ -1022,7 +1021,31 @@
           "title": "Files load testing solution: RDS and DataDog",
           "id": 151,
           "attr": {
+            "style": {},
+            "position": [
+              104.5,
+              -638.3750000000027,
+              31
+            ]
+          }
+        },
+        "0.04634488373994827": {
+          "title": "Minion merge+deploy",
+          "id": 153,
+          "attr": {
             "style": {}
+          }
+        },
+        "0.019862093031406403": {
+          "title": "Separate RDS's effort",
+          "id": 154,
+          "attr": {
+            "style": {},
+            "position": [
+              148.1376953125,
+              -704.7226562500041,
+              32
+            ]
           }
         }
       }
