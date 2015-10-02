@@ -211,7 +211,282 @@
         }
       },
       "ideas": {
-        "20": {
+        "21": {
+          "title": "WON'T DO",
+          "id": 100,
+          "ideas": {
+            "1": {
+              "title": "Completed tagging by 30th June",
+              "id": 35,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Project JIRA issues",
+              "id": 104,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "example write-ups",
+              "id": 86,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "to jerome",
+                  "id": 87,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "to mikhail",
+                  "id": 88,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "Propose transition to SRE/support story for BlobStore.",
+              "id": 110,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {}
+            },
+            "5": {
+              "title": "AWS tags drill-down",
+              "id": 24,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "0.75": {
+                  "title": "Examine own & manual tagging",
+                  "id": 49,
+                  "attr": {
+                    "position": [
+                      97,
+                      11.5,
+                      1
+                    ],
+                    "style": {}
+                  }
+                }
+              }
+            },
+            "6": {
+              "title": "Clarify thoughts on Micros team size & the \"TPM experiment\"",
+              "id": 97,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {}
+            }
+          },
+          "attr": {
+            "style": {},
+            "position": [
+              79.62499999999989,
+              392.9999999999977,
+              17
+            ],
+            "collapsed": true
+          }
+        },
+        "2.398223876953125": {
+          "title": "personal OKRs",
+          "id": 84,
+          "attr": {
+            "style": {},
+            "position": [
+              51,
+              -284,
+              3
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Develop technical expertise in containerisation, infra and config management",
+              "id": 92,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Moving checklist",
+                  "id": 129,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            }
+          }
+        },
+        "1.6910552978515625": {
+          "title": "End probation messages",
+          "id": 109,
+          "attr": {
+            "position": [
+              100,
+              -343,
+              5
+            ],
+            "style": {}
+          }
+        },
+        "0.36895751953125": {
+          "title": "Micros OKRs",
+          "id": 108,
+          "attr": {
+            "style": {}
+          }
+        },
+        "0.184478759765625": {
+          "title": "Micros Team structure  proposal",
+          "id": 117,
+          "attr": {
+            "style": {}
+          }
+        },
+        "11.199111938476562": {
+          "title": "PERSONAL",
+          "id": 119,
+          "ideas": {
+            "1": {
+              "title": "Citizenship",
+              "id": 99,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "RSU purch",
+              "id": 112,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
+        },
+        "15.599555969238281": {
+          "title": "ShipIt ideas write-up",
+          "id": 114,
+          "attr": {
+            "style": {},
+            "position": [
+              72,
+              288.0000000000002,
+              14
+            ]
+          }
+        },
+        "0.07062077522277832": {
+          "title": "Container cluster Proposal",
+          "id": 118,
+          "attr": {
+            "style": {},
+            "position": [
+              150.8749999999999,
+              -397.7500000000009,
+              20
+            ]
+          },
+          "ideas": {}
+        },
+        "0.138719379901886": {
+          "title": "HC/Heartbeat",
+          "id": 139,
+          "attr": {
+            "position": [
+              95.87499999999989,
+              -304.3749999999998,
+              22
+            ],
+            "style": {}
+          }
+        },
+        "0.05296558141708374": {
+          "title": "AMI pipeline",
+          "id": 143,
+          "attr": {
+            "position": [
+              72.74999999999989,
+              -443.87500000000273,
+              26
+            ],
+            "style": {}
+          }
+        },
+        "0.0734582170844078": {
+          "title": "SMUG prep",
+          "id": 147,
+          "attr": {
+            "style": {}
+          }
+        },
+        "0.07203949615359306": {
+          "title": "US trip",
+          "id": 120,
+          "ideas": {
+            "0.5": {
+              "title": "Schedule Meetings",
+              "id": 122,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {},
+            "position": [
+              84.12499999999989,
+              -499.7500000000073,
+              29
+            ]
+          }
+        },
+        "0.019862093031406403": {
+          "title": "Separate RDS's effort",
+          "id": 154,
+          "attr": {
+            "style": {}
+          }
+        },
+        "0.07274885661900043": {
+          "title": "Micros env/region  refactor",
+          "id": 140,
+          "attr": {
+            "style": {},
+            "position": [
+              69.57252375104213,
+              -176.1888470868953,
+              33
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Dev DC in us-west-2",
+              "id": 145,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "18.29977798461914": {
           "title": "DONE",
           "id": 36,
           "ideas": {
@@ -694,6 +969,31 @@
                 "style": {}
               }
             },
+            "53": {
+              "title": "Minion merge+deploy",
+              "id": 153,
+              "attr": {
+                "style": {}
+              }
+            },
+            "54": {
+              "title": "LaaS SLA conf Q",
+              "id": 157
+            },
+            "55": {
+              "title": "Files load testing solution: RDS and monitoring",
+              "id": 151,
+              "attr": {
+                "style": {}
+              }
+            },
+            "56": {
+              "title": "Inno Week Prep",
+              "id": 146,
+              "attr": {
+                "style": {}
+              }
+            },
             "3.5": {
               "title": "Update May contacts report",
               "id": 69,
@@ -707,344 +1007,49 @@
             "collapsed": true
           }
         },
-        "21": {
-          "title": "WON'T DO",
-          "id": 100,
-          "ideas": {
-            "1": {
-              "title": "Completed tagging by 30th June",
-              "id": 35,
-              "attr": {
-                "style": {}
-              }
-            },
-            "2": {
-              "title": "Project JIRA issues",
-              "id": 104,
-              "attr": {
-                "style": {}
-              }
-            },
-            "3": {
-              "title": "example write-ups",
-              "id": 86,
-              "attr": {
-                "style": {}
-              },
-              "ideas": {
-                "1": {
-                  "title": "to jerome",
-                  "id": 87,
-                  "attr": {
-                    "style": {}
-                  }
-                },
-                "2": {
-                  "title": "to mikhail",
-                  "id": 88,
-                  "attr": {
-                    "style": {}
-                  }
-                }
-              }
-            },
-            "4": {
-              "title": "Propose transition to SRE/support story for BlobStore.",
-              "id": 110,
-              "attr": {
-                "style": {}
-              },
-              "ideas": {}
-            },
-            "5": {
-              "title": "AWS tags drill-down",
-              "id": 24,
-              "attr": {
-                "style": {}
-              },
-              "ideas": {
-                "0.75": {
-                  "title": "Examine own & manual tagging",
-                  "id": 49,
-                  "attr": {
-                    "position": [
-                      97,
-                      11.5,
-                      1
-                    ],
-                    "style": {}
-                  }
-                }
-              }
-            },
-            "6": {
-              "title": "Clarify thoughts on Micros team size & the \"TPM experiment\"",
-              "id": 97,
-              "attr": {
-                "style": {}
-              },
-              "ideas": {}
-            }
-          },
-          "attr": {
-            "style": {},
-            "position": [
-              79.62499999999989,
-              392.9999999999977,
-              17
-            ]
-          }
-        },
-        "2.398223876953125": {
-          "title": "personal OKRs",
-          "id": 84,
-          "attr": {
-            "style": {},
-            "position": [
-              51,
-              -284,
-              3
-            ]
-          },
-          "ideas": {
-            "1": {
-              "title": "Develop technical expertise in containerisation, infra and config management",
-              "id": 92,
-              "attr": {
-                "style": {}
-              },
-              "ideas": {}
-            }
-          }
-        },
-        "1.6910552978515625": {
-          "title": "End probation messages",
-          "id": 109,
-          "attr": {
-            "position": [
-              100,
-              -343,
-              5
-            ],
-            "style": {}
-          }
-        },
-        "0.36895751953125": {
-          "title": "Micros OKRs",
-          "id": 108,
-          "attr": {
-            "style": {}
-          }
-        },
-        "0.184478759765625": {
-          "title": "Micros Team structure  proposal",
-          "id": 117,
-          "attr": {
-            "style": {}
-          }
-        },
-        "11.199111938476562": {
-          "title": "PERSONAL",
-          "id": 119,
-          "ideas": {
-            "1": {
-              "title": "Citizenship",
-              "id": 99,
-              "attr": {
-                "style": {}
-              }
-            },
-            "2": {
-              "title": "RSU purch",
-              "id": 112,
-              "attr": {
-                "style": {}
-              }
-            },
-            "0.5": {
-              "title": "Moving checklist",
-              "id": 129,
-              "attr": {
-                "position": [
-                  134,
-                  -54.49999999999909,
-                  1
-                ],
-                "style": {}
-              }
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#ff6600"
-            }
-          }
-        },
-        "15.599555969238281": {
-          "title": "ShipIt ideas write-up",
-          "id": 114,
-          "attr": {
-            "style": {},
-            "position": [
-              72,
-              288.0000000000002,
-              14
-            ]
-          }
-        },
-        "0.07062077522277832": {
-          "title": "Container cluster Proposal",
-          "id": 118,
-          "attr": {
-            "style": {},
-            "position": [
-              150.8749999999999,
-              -397.7500000000009,
-              20
-            ]
-          },
-          "ideas": {}
-        },
-        "0.1160198450088501": {
-          "title": "fluentd meetup/call",
-          "id": 138,
-          "attr": {
-            "position": [
-              101.93749999999989,
-              -335.2500000000009,
-              21
-            ],
-            "style": {}
-          }
-        },
-        "0.138719379901886": {
-          "title": "HC/Heartbeat",
-          "id": 139,
-          "attr": {
-            "position": [
-              95.87499999999989,
-              -304.3749999999998,
-              22
-            ],
-            "style": {}
-          }
-        },
-        "0.09332031011581421": {
+        "0.04634488373994827": {
           "title": "Micros Release  \"cert\"",
           "id": 142,
           "attr": {
+            "style": {}
+          }
+        },
+        "0.049655232578516006": {
+          "title": "fluentd call",
+          "id": 156
+        },
+        "0.04800005815923214": {
+          "title": "JIRA integrated services",
+          "id": 155,
+          "attr": {
             "position": [
-              16.749999999999886,
-              -369.2500000000018,
-              25
+              91.83131281354213,
+              -654.3538425639376,
+              34
             ],
             "style": {}
           }
         },
-        "0.05296558141708374": {
-          "title": "AMI pipeline",
-          "id": 143,
-          "attr": {
-            "position": [
-              72.74999999999989,
-              -443.87500000000273,
-              26
-            ],
-            "style": {}
-          }
+        "0.03310348838567734": {
+          "title": "Add Raymond to all Micros groups",
+          "id": 158
         },
-        "0.0734582170844078": {
-          "title": "SMUG prep",
-          "id": 147,
+        "0.009931046515703201": {
+          "title": "DR roadmap",
+          "id": 159,
           "attr": {
             "style": {}
           }
         },
-        "0.07203949615359306": {
-          "title": "reInvent trip",
-          "id": 120,
-          "ideas": {
-            "0.5": {
-              "title": "Schedule Meetings",
-              "id": 122,
-              "attr": {
-                "style": {}
-              }
-            },
-            "1.5": {
-              "title": "ATX hotel",
-              "id": 148
-            },
-            "2.5": {
-              "title": "SF hotel",
-              "id": 149
-            }
-          },
+        "0.004965523257851601": {
+          "title": "Quay.io for docker",
+          "id": 160,
           "attr": {
             "style": {},
             "position": [
-              84.12499999999989,
-              -499.7500000000073,
-              29
-            ]
-          }
-        },
-        "0.06179317831993103": {
-          "title": "Inno Week Prep",
-          "id": 146,
-          "attr": {
-            "style": {},
-            "position": [
-              81.87499999999989,
-              -646.7500000000082,
-              30
-            ]
-          }
-        },
-        "0.08338926360011101": {
-          "title": "Micros env/region  refactor",
-          "id": 140,
-          "attr": {
-            "style": {}
-          },
-          "ideas": {
-            "1": {
-              "title": "Dev DC in us-west-2",
-              "id": 145,
-              "attr": {
-                "style": {}
-              }
-            }
-          }
-        },
-        "0.039724186062812805": {
-          "title": "Files load testing solution: RDS and DataDog",
-          "id": 151,
-          "attr": {
-            "style": {},
-            "position": [
-              104.5,
-              -638.3750000000027,
-              31
-            ]
-          }
-        },
-        "0.04634488373994827": {
-          "title": "Minion merge+deploy",
-          "id": 153,
-          "attr": {
-            "style": {}
-          }
-        },
-        "0.019862093031406403": {
-          "title": "Separate RDS's effort",
-          "id": 154,
-          "attr": {
-            "style": {},
-            "position": [
-              148.1376953125,
-              -704.7226562500041,
-              32
+              149.2093616162449,
+              -655.6231614902981,
+              35
             ]
           }
         }
@@ -1101,6 +1106,16 @@
             "4": {
               "title": "AWS hotel room Room",
               "id": 121,
+              "attr": {}
+            },
+            "5": {
+              "title": "SF hotel",
+              "id": 149,
+              "attr": {}
+            },
+            "6": {
+              "title": "ATX hotel",
+              "id": 148,
               "attr": {}
             }
           },
